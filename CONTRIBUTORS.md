@@ -1,1 +1,2 @@
-- [Archit Gupta](https://github.com/i-archit-gupta)
+- [Archit Gupta](https://github.com/i-archit-gupta) 
+- [Dawar Shafaque](https://github.com/dawar-shafaque)
