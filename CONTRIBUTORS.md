@@ -1,3 +1,4 @@
 - [Archit Gupta](https://github.com/i-archit-gupta) 
 - [Dawar Shafaque](https://github.com/dawar-shafaque)
 - [Harshit Yadav](https://github.com/CodeMaster17)
+- [Pranshu Sarthak](https://github.com/pranshusarthak)
