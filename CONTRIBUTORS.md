@@ -5,3 +5,4 @@
 - [Amaan Bhati](https://github.com/amaan-bhati)
 - [Krishna Kumar](https://github.com/krishna8421)
 - [Isha Mishra](https://github.com/imishaa)
+- Archit Gupta
